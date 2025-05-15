@@ -5,7 +5,7 @@
 A beginner in C++ who's only ever touched Python. i know the basics... basically up to the beginning of OOP, but struggling to remember specific functions, headers, etc... Working my way through Programming
 Principles and Practice Using C++ - Bjarne Stroustrup
 
-This repo is a little experiment: I want **you** to throw some tasks, challenges, mini-programs, or even ideas for tools/scripts at me — and I’ll try to code them (in C++).
+This repo is a little experiment: I want you to throw some tasks, challenges, mini-programs, or even ideas for tools/scripts at me — and I’ll try to code them (in C++).
 
 I'm learning by doing, so whether it’s:
 - A simple algorithm
