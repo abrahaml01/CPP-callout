@@ -38,4 +38,4 @@ I’ll:
 - Probably overthink simple things
 - Learn from it either way
 
-## This Repo
+Oh, i also need to get better at git...
